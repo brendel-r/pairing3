@@ -9,4 +9,5 @@ console.log(person)
 
 person.height = "5'7";
 person.hairColor = "Blonde"
+person.eye = "Blue"
 console.log(person)
